@@ -1,4 +1,4 @@
 baseURL = 'https://arounaj.github.io/GithubPages/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'papaermod'
+title = 'Blog Personel'
+theme = 'ananke'
