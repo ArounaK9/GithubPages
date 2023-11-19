@@ -1,12 +1,9 @@
-+++ 
-draft = true
-date = 2023-11-19T19:03:53+01:00
-title = ""
-description = ""
-slug = ""
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
 +++
+title = "Raver C'est Quoi"
+date = 2023-11-16T14:35:44+01:00
+draft = true
+tags = ["Entreprise", "Service"]
+categories = ["Développement Web"]
+author = "Raver"
++++
+![Description de l'image](Raver2.jpg)
