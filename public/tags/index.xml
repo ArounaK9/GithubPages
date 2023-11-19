@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Raver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 14:35:44 +0100</lastBuildDate>
     <atom:link href="https://arounaj.github.io/GithubPages/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entreprise</title>
+      <link>https://arounaj.github.io/GithubPages/tags/entreprise/</link>
+      <pubDate>Thu, 16 Nov 2023 14:35:44 +0100</pubDate>
+      <guid>https://arounaj.github.io/GithubPages/tags/entreprise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service</title>
+      <link>https://arounaj.github.io/GithubPages/tags/service/</link>
+      <pubDate>Thu, 16 Nov 2023 14:35:44 +0100</pubDate>
+      <guid>https://arounaj.github.io/GithubPages/tags/service/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
